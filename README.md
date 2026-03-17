@@ -61,18 +61,11 @@ scikit-learn
 ### Usage
 
 ```bash
-cd code_and_data
 pip install pandas numpy scipy openpyxl scikit-learn
 python peer_review_analysis.py
 ```
 
 The script reads the dataset from the same directory and prints all tables and test results to stdout.
-
-## Citation
-
-If you use this dataset or code, please cite the paper:
-
-> [Author names withheld for blind review]. Peer Review Governance in Transportation Research: A Field-Wide Audit of Review Models Across 108 Journals. Submitted to *Transport Reviews*, 2026.
 
 ## License
 
