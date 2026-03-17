@@ -2,7 +2,7 @@
 
 This folder contains the dataset and analysis code for the paper:
 
-**"Peer Review Governance in Transportation Research: A Field-Wide Audit of Review Models Across 108 Journals"**
+**"Peer Review Governance in Transportation Research: A Systematic Audit of Editorial Practices Across 108 Major Transportation Journals"**
 
 ## Contents
 
