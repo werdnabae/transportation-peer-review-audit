@@ -61,7 +61,6 @@ scikit-learn
 ### Usage
 
 ```bash
-cd code_and_data
 pip install pandas numpy scipy openpyxl scikit-learn
 python peer_review_analysis.py
 ```
