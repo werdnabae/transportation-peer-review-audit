@@ -4,6 +4,12 @@ This folder contains the dataset and analysis code for the paper:
 
 **"Peer Review Governance in Transportation Research: A Systematic Audit of Editorial Practices Across 108 Major Transportation Journals"**
 
+Andrew J. Bae. *Transportation Research Interdisciplinary Perspectives* **38** (2026) 102058.
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.trip.2026.102058-blue)](https://doi.org/10.1016/j.trip.2026.102058)
+
+**Paper:** <https://www.sciencedirect.com/science/article/pii/S259019822600223X>
+
 ## Contents
 
 | File | Description |
@@ -66,6 +72,29 @@ python peer_review_analysis.py
 ```
 
 The script reads the dataset from the same directory and prints all tables and test results to stdout.
+
+## Citation
+
+If you use this dataset or code, please cite the paper:
+
+> Bae, A. J. (2026). Peer review governance in transportation research: a systematic audit of editorial practices across 108 major transportation journals. *Transportation Research Interdisciplinary Perspectives*, 38, 102058. https://doi.org/10.1016/j.trip.2026.102058
+
+BibTeX:
+
+```bibtex
+@article{Bae2026PeerReview,
+  title     = {Peer review governance in transportation research: a systematic audit of editorial practices across 108 major transportation journals},
+  author    = {Bae, Andrew J.},
+  journal   = {Transportation Research Interdisciplinary Perspectives},
+  volume    = {38},
+  pages     = {102058},
+  year      = {2026},
+  doi       = {10.1016/j.trip.2026.102058},
+  publisher = {Elsevier},
+}
+```
+
+A machine-readable [`CITATION.cff`](CITATION.cff) is also provided, from which GitHub renders a "Cite this repository" button.
 
 ## License
 

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated paper."
+title: "Code and Data: Peer Review Governance in Transportation Research"
+authors:
+  - family-names: Bae
+    given-names: "Andrew J."
+preferred-citation:
+  type: article
+  title: "Peer review governance in transportation research: a systematic audit of editorial practices across 108 major transportation journals"
+  authors:
+    - family-names: Bae
+      given-names: "Andrew J."
+  journal: "Transportation Research Interdisciplinary Perspectives"
+  volume: 38
+  start: 102058
+  year: 2026
+  doi: "10.1016/j.trip.2026.102058"
+  issn: "2590-1982"
+  publisher:
+    name: "Elsevier"
